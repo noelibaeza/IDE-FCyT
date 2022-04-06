@@ -99,5 +99,5 @@ markdown_extensions:
 # Page tree
 nav:
   - Introducción: index.md
-  - Capas de la IDE: 
-  - Catalogo: 
+  - Capas de la IDE: index.md
+  - Catalogo: index.md
