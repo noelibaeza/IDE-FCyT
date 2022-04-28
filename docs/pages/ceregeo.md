@@ -21,11 +21,11 @@
 
  ### Laboratorio Ceregeo - FCYT-UADER- Oro Verde
 
-<iframe src = "https://goo.gl/maps/VeEhFikLpzExHT7d9" width="400" height="300"> </iframe>
+<iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.663707405235!2d-60.524107684841645!3d-31.834149981266922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b44b973b15bedd%3A0xa59a2314fe8063f2!2sFacultad%20de%20Ciencia%20y%20Tecnolog%C3%ADa%20(UADER)!5e0!3m2!1ses-419!2sar!4v1651150690872!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Laboratorio Ceregeo -  CICYTTP – CONICET - Diamante
 
-<iframe src = "https://goo.gl/maps/iFUVoBE7ogSL9o1Y7" width="400" height="300"> </iframe>
+<iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.2543377032525!2d-60.64605688486774!3d-32.06236898119361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b5cdb10062a5a1%3A0xb92e6df4e5ba1fb4!2sCentro%20de%20Investigaciones%20Cient%C3%ADficas%20y%20Transferencia%20de%20Tecnolog%C3%ADa%20a%20la%20Produccion!5e0!3m2!1ses-419!2sar!4v1651151198308!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> </iframe>
 
 
 ---

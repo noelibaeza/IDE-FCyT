@@ -51,8 +51,7 @@ extra:
       link: https://github.com/samapriya
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/fcyt.uader/?hl=es
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/
+    
 
 # Extensions
 markdown_extensions:
