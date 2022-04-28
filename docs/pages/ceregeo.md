@@ -20,6 +20,7 @@
  ## Ubicación 
 
  ### Laboratorio Ceregeo - FCYT-UADER- Oro Verde
+ 
 
 <iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.663707405235!2d-60.524107684841645!3d-31.834149981266922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b44b973b15bedd%3A0xa59a2314fe8063f2!2sFacultad%20de%20Ciencia%20y%20Tecnolog%C3%ADa%20(UADER)!5e0!3m2!1ses-419!2sar!4v1651150690872!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
