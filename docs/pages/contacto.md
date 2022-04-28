@@ -1,6 +1,6 @@
 ![Logo FCYT-UADER](https://raw.githubusercontent.com/Ceregeo/Ceregeo/main/docs/images/logofcyt1.png "FCYT-UADER")
 
-# Facultad de Ciencia y Tecnologia - Universidad Autónoma de Entre Ríos
+
 ---
 ## Infraestructura de Datos Espaciales - IDE
 ---
@@ -21,6 +21,10 @@ formación superior al interior de la provincia, teniendo en cuenta sus caracter
 
 Cuenta con 11 sedes, dos extensiones áulicas y dos escuelas pre-universitarias: el Colegio del Uruguay “Justo José de Urquiza”, ubicado en la ciudad de Concepción del Uruguay; y la Escuela Técnica Nº 35 en la ciudad de Crespo.
 
-[Ubicacion Sede Central Oro Verde](https://goo.gl/maps/VeEhFikLpzExHT7d9 "Sede Central Oro Verde")
+#### Ubicación Sede Central Oro Verde
 
-[Acceso a la web oficial FCYT-UADER](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER")
+<iframe src = "https://goo.gl/maps/VeEhFikLpzExHT7d9" width="400" height="300"> Ubicacion Sede Central Oro Verde </iframe>
+
+---
+
+[Acceso web oficial FCYT-UADER](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER")

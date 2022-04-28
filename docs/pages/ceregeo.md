@@ -1,5 +1,5 @@
 <center>
- <img src = https://raw.githubusercontent.com/Ceregeo/Ceregeo/main/docs/images/logoceregeo.jpeg alt = "CeReGEO" width="50%" height="50%" ></img>
+ <img src = https://raw.githubusercontent.com/Ceregeo/Ceregeo/main/docs/images/logoceregeo.jpeg alt = "CeReGEO" width="70%" height="70%" ></img>
 </center> 
 
 ---
@@ -20,10 +20,13 @@
  ## Ubicación 
 
  ### Laboratorio Ceregeo - FCYT-UADER- Oro Verde
-[Ubicación Ceregeo Oro Verde](https://goo.gl/maps/VeEhFikLpzExHT7d9 "Ceregeo - Oro Verde")
 
-### Laboratorio Ceregeo -  CICYTTP – CONICET
-[Ubicacion Ceregeo Diamante](https://goo.gl/maps/iFUVoBE7ogSL9o1Y7 "Ceregeo - Diamante")
+<iframe src = "https://goo.gl/maps/VeEhFikLpzExHT7d9" width="400" height="300"> </iframe>
+
+### Laboratorio Ceregeo -  CICYTTP – CONICET - Diamante
+
+<iframe src = "https://goo.gl/maps/iFUVoBE7ogSL9o1Y7" width="400" height="300"> </iframe>
+
 
 ---
-[Acceso a la web oficial del CEREGEO](https://ceregeo.github.io/Ceregeo/ "Ceregeo - FCyT-UADER")
+[Acceso web oficial del CEREGEO](https://ceregeo.github.io/Ceregeo/ "Ceregeo - FCyT-UADER")
