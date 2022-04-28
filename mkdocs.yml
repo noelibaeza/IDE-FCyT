@@ -2,6 +2,7 @@ site_name: Infraestructura de Datos Espaciales FCyT UADER
 site_description: Community Datasets in Google Earth Engine
 site_author: Fernando Tentor
 site_url: https://github.com/FernandoTentor
+edit_uri: ./edit/main
 
 # Repository
 repo_name: IDE-FCyT
