@@ -19,13 +19,10 @@
 ## Objetivos
  Conformar un grupo de trabajo multidisciplinario que reúna a investigadores y técnicos de variada procedencia y campos temáticos que utilicen la geomática como herramienta de trabajo. Constituir un espacio de trabajo científico/académico donde se realice investigación científica de alta calidad. Propiciar la formación y capacitación de recursos humanos mediante cursos, seminarios, reuniones científicas, dirección de becarios y formación de postgrado. Brindar servicios académicos y de asistencia técnica en temas de procesamiento digital de imágenes de satélite, Sistemas de Información Geográfica, Análisis Espacial y Cartografía Temática, tanto a nivel de grado como de postgrado. Reunir esfuerzos y propiciar el trabajo multidisciplinar y en cooperación entre investigadores de la Universidad y de otras instituciones gubernamentales, ONGs y del sector privado. Constituirse en un centro de excelencia que permita la formación de profesionales que sean capaces de gestionar proyectos nacionales e internacionales y posicionar a la UADER como una Universidad reconocida a nivel nacional e internacional en temas de Geomática.
 
- 
 ## Ubicación 
 
-
-
 ### Laboratorio Ceregeo - FCYT-UADER- Oro Verde
-
+ 
 <iframe src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3389.663707405235!2d-60.524107684841645!3d-31.834149981266922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b44b973b15bedd%3A0xa59a2314fe8063f2!2sFacultad%20de%20Ciencia%20y%20Tecnolog%C3%ADa%20(UADER)!5e0!3m2!1ses-419!2sar!4v1651150690872!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Laboratorio Ceregeo -  CICYTTP – CONICET - Diamante
