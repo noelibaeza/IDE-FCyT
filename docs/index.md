@@ -14,9 +14,9 @@ La *Facultad de Ciencia y Tecnología* nuclea docentes, investigadores, estudian
 
 Sin embargo, muchas veces esta información no se encuentra accesible para quienes desean consultarla, o no se encuentra sistematizada de forma que facilite su uso. Es por esto que la IDE viene a solventar este inconveniente, permitiendo el acceso ubicuo a dichos recursos. Posibilitando al usuario desarrollar ciertas tareas como la búsqueda, visualización, accesibilidad, análisis y descarga. 
 
-Asimismo, la IDE de la Facultad se complementa con la Infraestructura de Datos Espaciales de la Provincia de Entre Ríos (IDEER) y a la Infraestructura de Datos Espaciales de la República Argentina (IDERA).
 
 
+Asimismo, la IDE de la Facultad se complementa con la Infraestructura de Datos Espaciales de la Provincia de Entre Ríos <a href = "https://www.entrerios.gov.ar/ideer/">(IDEER)</a> y a la Infraestructura de Datos Espaciales de la República Argentina <a href = "https://www.idera.gob.ar/" > (IDERA) </a>.
 <center>
 <iframe src= "https://www.idera.gob.ar/" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"> 
 IDERA </iframe>
