@@ -100,7 +100,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Introducción: index.md
-  - Capas de la IDE: pages/capas_ide.md
-  - Catálogo: pages/catalogo.md
+  - Capas de la IDE:
+    - Handsen Bosque: pages/handsen.md
   - Ceregeo: pages/ceregeo.md
   - Contacto: pages/contacto.md
