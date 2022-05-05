@@ -1,11 +1,13 @@
 site_name: Infraestructura de Datos Espaciales FCyT UADER
 site_description: Community Datasets in Google Earth Engine
 site_author: Fernando Tentor
-site_url: https://github.com/FernandoTentor
+site_url: https://ide-fcyt.github.io/IDE-FCyT/
+
 
 # Repository
-repo_name: IDE-FCyT
+repo_name: IDE-FCyT/IDE-FCyT
 repo_url: https://github.com/IDE-FCyT/IDE-FCyT
+edit_uri: ./edit/main/docs
 
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
@@ -98,7 +100,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Introducción: index.md
-  - Capas de la IDE: pages/capas_ide.md
-  - Catálogo: pages/catalogo.md
+  - Capas de la IDE:
+    - Handsen Bosque: pages/handsen.md
   - Ceregeo: pages/ceregeo.md
   - Contacto: pages/contacto.md
