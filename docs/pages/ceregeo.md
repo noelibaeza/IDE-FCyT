@@ -6,6 +6,8 @@
 
  **El Centro Regional de Geomática (CEREGeo)** se crea en el año 2007 en el ámbito de la Facultad de Ciencia y Tecnología de la UADER y desde su origen tiene como misión conformar un grupo de trabajo que aborde temas de interés regional, como cambios de uso y cobertura del suelo, pérdida de ecosistemas nativos, incendios en ambientes de isla, análisis de riesgo urbano/rural, aplicaciones de SIG en planificación estratégica, ordenamiento territorial, en manejo de áreas naturales, desde una perspectiva interdisciplinaria.
 
+ 
+
 ## Actividades Principales 
  Desde el CEREGeo realiza investigación, docencia y transferencia de tecnología para la región y el país. Sintéticamente, algunas de las actividades son:
 

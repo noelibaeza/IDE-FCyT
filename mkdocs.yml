@@ -101,6 +101,6 @@ markdown_extensions:
 nav:
   - Introducción: index.md
   - Capas de la IDE:
-    - Handsen Bosque: pages/handsen.md
+    - Hansen Bosque: pages/handsen.md
   - Ceregeo: pages/ceregeo.md
   - Contacto: pages/contacto.md
