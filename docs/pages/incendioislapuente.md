@@ -1,6 +1,7 @@
-![image](https://user-images.githubusercontent.com/85247275/168096710-af1705f8-aac9-4346-a901-029eae6c8dc7.png)
+![image](https://user-images.githubusercontent.com/85247275/168097844-d99b1414-a65c-4b26-9059-0600c3c05a3e.png)
 
-### Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione.
+
+** Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione. **
 
 ## Metodología
  
