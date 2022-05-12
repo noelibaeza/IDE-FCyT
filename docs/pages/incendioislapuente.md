@@ -1,7 +1,8 @@
+![image](https://user-images.githubusercontent.com/85247275/168096710-af1705f8-aac9-4346-a901-029eae6c8dc7.png)
 
-Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione.
+### Elaborado por: Facundo Boladeras, Pamela Zamboni, Noelí Baeza, Fernando Tentor, y Walter Sione.
 
-Metodología
+## Metodología
  
 -	Se integró en un Sistema de Información Geográfica (SIG) utilizando el software libre QGIS, la siguiente información: 
 o	Imágenes derivadas de sensores remotos de mediana resolución (Sentinel 2, Landsat 9?).
@@ -11,19 +12,24 @@ o	Información  auxiliar
 -	Se estimó la severidad ¿?
 -	Se construyó cartografía temática, se estimaron las superficies, coberturas e infraestructuras afectadas, y se publicaron los datos en la IDE de la FCyT UADER????
  
-Resultados
+ 
+## Resultados
+
 Información sobre los incendios de la Isla Puente – Noviembre 2021
 -	Cartografía de coberturas afectadas 
-
-
 -	Área quemada 
--	
 -	Recuperación de la vegetación
 -	Severidad de los incendios 
 -	Focos de Calor  
 
 
+![image](https://user-images.githubusercontent.com/85247275/168096385-06415065-7682-45b0-a403-7be8ed0c9589.png)
 
-Resultados
+![image](https://user-images.githubusercontent.com/85247275/168096449-ca35ccbf-b8e2-48c8-85c0-ec00c4bbce6f.png)
+
+![image](https://user-images.githubusercontent.com/85247275/168096514-a6f98492-9414-4d4c-97d0-adb3c8c87cae.png)
+
+
+
 
 
