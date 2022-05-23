@@ -2,6 +2,8 @@
 
 ---
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=IDE-FCyT.IDE-FCyT)](https://github.com/IDE-FCyT)
+
 ## Introducción
 
 Una IDE *( Infraestructura de datos Espaciales )* es una asociación de información geoespacial que se encuentra disponible a través de Internet y se conforma por un conjunto de recursos (catálogos, servidores, aplicaciones, capas SIG, páginas web, etc.), cuyo principal objetivo es asegurar la colaboración y accesibilidad de la información geoespacial. 
