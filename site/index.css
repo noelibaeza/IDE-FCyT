@@ -1,1 +1,3 @@
 h1 {color: red; }
+markdown_extensions:
+  - attr_list
