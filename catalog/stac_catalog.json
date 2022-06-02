@@ -1,0 +1,25 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Catalog",
+    "id": "GEE community datasets catalog",
+    "title": "awesome gee community datasets catalog",
+    "description": "List of all rasters and vectors present in the [awesome gee community datasets catalog](https://samapriya.github.io/awesome-gee-community-datasets/).",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/samapriya/awesome-gee-community-datasets/master/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/samapriya/awesome-gee-community-datasets/master/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "child",
+            "id": "users/geocis/BareSurfaces/BF_1980_2019",
+            "title": "Bare Surface Frequency 1980-2019",
+            "href": "https://raw.githubusercontent.com/samapriya/awesome-gee-community-datasets/master/catalog/BareSurfaces_BF_1980_2019.json"
+        }
+    ]
+}
