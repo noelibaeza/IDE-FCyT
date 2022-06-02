@@ -1,8 +1,8 @@
 {
     "stac_version": "1.0.0",
     "type": "Catalog",
-    "id": "GEE community datasets catalog",
-    "title": "awesome gee community datasets catalog",
+    "id": "IDE FCyT UADER",
+    "title": "IDE Facultad de Ciencia y Tecnología USDER",
     "description": "List of all rasters and vectors present in the [IDE FCyT datasets catalog](https://ide-fcyt.github.io/IDE-FCyT/).",
     "links": [
         {

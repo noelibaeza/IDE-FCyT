@@ -51,8 +51,8 @@
         "temporal": {
             "interval": [
                 [
-                    "2000-00-00T00:00:00.0Z",
-                    "2000-00-00T00:00:00.0Z"
+                    "2000-00-00T00:00:00.00000Z",
+                    "2000-00-00T00:00:00.00000Z"
                 ]
             ]
         }
@@ -64,10 +64,16 @@
     ],
     "providers": [
         {
-            "name": "Centro Regional de Geomática",
+            "name": "INTA",
             "roles": [
                 "producer",
                 "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
             ]
         },
         {
