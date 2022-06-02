@@ -2,8 +2,8 @@
     "stac_version": "1.0.0",
     "type": "Catalog",
     "id": "IDE FCyT UADER",
-    "title": "IDE Facultad de Ciencia y Tecnología USDER",
-    "description": "List of all rasters and vectors present in the [IDE FCyT datasets catalog](https://ide-fcyt.github.io/IDE-FCyT/).",
+    "title": "IDE Facultad de Ciencia y Tecnología UADER",
+    "description": "Lista de raster y vectores presentes in [IDE FCyT datasets catalog](https://ide-fcyt.github.io/IDE-FCyT/).",
     "links": [
         {
             "rel": "self",
