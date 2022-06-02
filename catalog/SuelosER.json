@@ -5,24 +5,24 @@
         "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
     ],
     "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
-    "title": "Soil 800m Grid: cec",
-    "description": "Soil 800m Grid: cec",
+    "title": "Carta de Suelo ER - INTA",
+    "description": "Carta de Suelo ER - INTA",
     "license": "CC-BY-4.0",
-    "gee:type": "image",
+    "gee:type": "vector",
     "links": [
         {
             "rel": "self",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/blob/main/catalog/SuelosER.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
             "type": "application/json"
         },
         {
             "rel": "parent",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/blob/main/catalog/stac_catalog.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
             "type": "application/json"
         },
         {
             "rel": "root",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/blob/main/catalog/stac_catalog.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
             "type": "application/json"
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "rel": "license",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/blob/main/LICENSE"
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
         }
     ],
     "extent": {
