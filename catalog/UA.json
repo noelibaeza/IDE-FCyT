@@ -1,0 +1,115 @@
+{
+    "stac_version": "1.0.0",
+    "type": "Collection",
+    "stac_extensions": [
+        "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
+    ],
+    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "title": "Carta de Suelo ER - INTA",
+    "description": "Carta de Suelo ER - INTA",
+    "license": "CC-BY-4.0",
+    "gee:type": "vector",
+    "links": [
+        {
+            "rel": "self",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "parent",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "rel": "root",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/stac_catalog.json",
+            "type": "application/json"
+        },
+        {
+            "title": "Carta de Suelos de la Provincia de Entre Ríos",
+            "rel": "related",
+            "href": "https://code.earthengine.google.com/3a1cfb868beb449683f32bdd77f65f1b",
+            "type": "text/html",
+            "code": "JavaScript"
+        },
+        {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png",
+            "rel": "preview",
+            "type": "image/png"
+         },
+        {
+            "rel": "license",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
+        }
+    ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -61.0648,
+                    -34.15252,
+                    -57.54923,
+                    -29.93567
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2021-07-21T05:31:04.396719Z",
+                    "2021-07-21T05:31:04.396719Z"
+                ]
+            ]
+        }
+    },
+    "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
+    "gee:user_uploaded": true,
+    "keywords": [
+        "Soil grid, Entre Rios, Soil, Coarse"
+    ],
+    "providers": [
+        {
+            "name": "INTA",
+            "roles": [
+                "producer",
+                "licensor"
+            ]
+        },
+        {
+            "name": "Centro Regional de Geomática",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Fernando Tentor",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Noeli Baeza",
+            "roles": [
+                "processor"
+            ]
+        },
+        {
+            "name": "Facundo Boladera",
+            "roles": [
+                "processor"
+            ]
+        }
+    ],
+    "eo:bands": [
+        {
+            "name": "Nc",
+            "gsd": 10000,
+            "min": 0,
+            "max": 199.2,
+            "gee:estimated_range": true
+        }
+    ],
+    "eo:properties": {
+        "all_users_can_read": true
+    }
+}
