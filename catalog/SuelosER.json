@@ -33,6 +33,11 @@
             "code": "JavaScript"
         },
         {
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png",
+            "rel": "preview",
+            "type": "image/png"
+         },
+        {
             "rel": "license",
             "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/LICENSE"
         }
