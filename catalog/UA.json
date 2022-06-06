@@ -5,14 +5,14 @@
         "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
     ],
     "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
-    "title": "Carta de Suelo ER - INTA",
-    "description": "Carta de Suelo ER - INTA",
+    "title": "Unidades Académicas UADER",
+    "description": "Ubicación unidades Académicas UADER",
     "license": "CC-BY-4.0",
     "gee:type": "vector",
     "links": [
         {
             "rel": "self",
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/catalog/UA.json",
             "type": "application/json"
         },
         {
@@ -26,14 +26,14 @@
             "type": "application/json"
         },
         {
-            "title": "Carta de Suelos de la Provincia de Entre Ríos",
+            "title": "Unidades Académicas UADER",
             "rel": "related",
-            "href": "https://code.earthengine.google.com/3a1cfb868beb449683f32bdd77f65f1b",
+            "href": "https://code.earthengine.google.com/?scriptPath=users%2Fnoelibaeza%2Fdefault%3Aunidades_academicas_uader",
             "type": "text/html",
             "code": "JavaScript"
         },
         {
-            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/Captura_cartaER.png",
+            "href": "https://raw.githubusercontent.com/IDE-FCyT/IDE-FCyT/main/images/unidadesUADER.png",
             "rel": "preview",
             "type": "image/png"
          },
@@ -65,11 +65,11 @@
     "gee:terms_of_use": "This dataset is made available publicly under CC-BY-4.0.",
     "gee:user_uploaded": true,
     "keywords": [
-        "Soil grid, Entre Rios, Soil, Coarse"
+        "UADER, Entre Rios, academic, points"
     ],
     "providers": [
         {
-            "name": "INTA",
+            "name": "IDERA",
             "roles": [
                 "producer",
                 "licensor"
