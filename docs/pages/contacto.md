@@ -27,6 +27,5 @@ Cuenta con 11 sedes, dos extensiones áulicas y dos escuelas pre-universitarias:
 
 ---
 
-[Send :Acceso web oficial FCYT-UADER:](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER") { .md-button }
-
+[Send :Acceso web oficial FCYT-UADER:](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER")
 
