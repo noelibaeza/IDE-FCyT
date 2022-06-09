@@ -4,7 +4,7 @@
     "stac_extensions": [
         "https://stac-extensions.github.io/eo/v1.0.0/schema.json"
     ],
-    "id": "projects/earthengine-legacy/assets/projects/sat-io/open-datasets/CSRL_soil_properties/chemical/cec",
+    "id": "IDE-FCyT/IDE-FCyT/main/catalog/SuelosER.json",
     "title": "Carta de Suelo ER - INTA",
     "description": "Carta de Suelo ER - INTA",
     "license": "CC-BY-4.0",
@@ -28,7 +28,7 @@
         {
             "title": "Carta de Suelos de la Provincia de Entre Ríos",
             "rel": "related",
-            "href": "https://code.earthengine.google.com/3a1cfb868beb449683f32bdd77f65f1b",
+            "href": "https://ftentoru.users.earthengine.app/view/cartasueloser",
             "type": "text/html",
             "code": "JavaScript"
         },
