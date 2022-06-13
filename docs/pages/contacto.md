@@ -2,7 +2,7 @@
 
 
 ---
-# *Infraestructura de Datos Espaciales - IDE*
+# Infraestructura de Datos Espaciales - IDE
 ---
 La **Facultad de Ciencia y Tecnología** pertenece a la **Universidad Autónoma de Entre Ríos**, es una institución pública de educación superior, creada en el año 2000 y abocada a la formación de docentes en disciplinas científicas, así como a la enseñanza de la ciencia y las tecnologías.
 
@@ -27,6 +27,5 @@ Cuenta con 11 sedes, dos extensiones áulicas y dos escuelas pre-universitarias:
 
 ---
 
-[Send :Acceso web oficial FCYT-UADER:](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER") { .md-button }
-
+[Send :Acceso web oficial FCYT-UADER:](http://fcyt.uader.edu.ar/web/ "WEB FCYT-UADER")
 
