@@ -105,16 +105,4 @@
             ]
         }
     ],
-    "eo:bands": [
-        {
-            "name": "Nc",
-            "gsd": 10000,
-            "min": 0,
-            "max": 199.2,
-            "gee:estimated_range": true
-        }
-    ],
-    "eo:properties": {
-        "all_users_can_read": true
-    }
 }
