@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        #map {
+            width: 735px;
+            height: 493px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/Lmitesdepartamentales_1.js"></script>
+        <script src="data/EntreRosArrozCiclo201920_2.js"></script>
+        <script src="data/EntreRosArrozCiclo202021_3.js"></script>
+        <script src="data/EntreRosArrozCiclo202122_4.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:27, minZoom:1
+        }).fitBounds([[-33.86684733133053,-60.88869444627477],[-30.172399758850148,-55.37335825354947]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_GoogleEarth_0');
+        map.getPane('pane_GoogleEarth_0').style.zIndex = 400;
+        var layer_GoogleEarth_0 = L.tileLayer('http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={x}&y={y}&z={z}', {
+            pane: 'pane_GoogleEarth_0',
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 27,
+            minNativeZoom: 0,
+            maxNativeZoom: 18
+        });
+        layer_GoogleEarth_0;
+        map.addLayer(layer_GoogleEarth_0);
+        function pop_Lmitesdepartamentales_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DPTO_'] !== null ? autolinker.link(feature.properties['DPTO_'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['RIESGO T'] !== null ? autolinker.link(feature.properties['RIESGO T'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['RINDE MED'] !== null ? autolinker.link(feature.properties['RINDE MED'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_Lmitesdepartamentales_1_0() {
+            return {
+                pane: 'pane_Lmitesdepartamentales_1',
+                opacity: 1,
+                color: 'rgba(255,255,255,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(231,113,72,0.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_Lmitesdepartamentales_1');
+        map.getPane('pane_Lmitesdepartamentales_1').style.zIndex = 401;
+        map.getPane('pane_Lmitesdepartamentales_1').style['mix-blend-mode'] = 'normal';
+        var layer_Lmitesdepartamentales_1 = new L.geoJson(json_Lmitesdepartamentales_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_Lmitesdepartamentales_1',
+            layerName: 'layer_Lmitesdepartamentales_1',
+            pane: 'pane_Lmitesdepartamentales_1',
+            onEachFeature: pop_Lmitesdepartamentales_1,
+            style: style_Lmitesdepartamentales_1_0,
+        });
+        bounds_group.addLayer(layer_Lmitesdepartamentales_1);
+        map.addLayer(layer_Lmitesdepartamentales_1);
+        function pop_EntreRosArrozCiclo201920_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DPTO'] !== null ? autolinker.link(feature.properties['DPTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DTO'] !== null ? autolinker.link(feature.properties['DTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['R_17_DIC'] !== null ? autolinker.link(feature.properties['R_17_DIC'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_EntreRosArrozCiclo201920_2_0() {
+            return {
+                pane: 'pane_EntreRosArrozCiclo201920_2',
+                opacity: 1,
+                color: 'rgba(242,242,20,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(242,242,20,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_EntreRosArrozCiclo201920_2');
+        map.getPane('pane_EntreRosArrozCiclo201920_2').style.zIndex = 402;
+        map.getPane('pane_EntreRosArrozCiclo201920_2').style['mix-blend-mode'] = 'normal';
+        var layer_EntreRosArrozCiclo201920_2 = new L.geoJson(json_EntreRosArrozCiclo201920_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_EntreRosArrozCiclo201920_2',
+            layerName: 'layer_EntreRosArrozCiclo201920_2',
+            pane: 'pane_EntreRosArrozCiclo201920_2',
+            onEachFeature: pop_EntreRosArrozCiclo201920_2,
+            style: style_EntreRosArrozCiclo201920_2_0,
+        });
+        bounds_group.addLayer(layer_EntreRosArrozCiclo201920_2);
+        map.addLayer(layer_EntreRosArrozCiclo201920_2);
+        function pop_EntreRosArrozCiclo202021_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DPTO'] !== null ? autolinker.link(feature.properties['DPTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DTO'] !== null ? autolinker.link(feature.properties['DTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_EntreRosArrozCiclo202021_3_0() {
+            return {
+                pane: 'pane_EntreRosArrozCiclo202021_3',
+                opacity: 1,
+                color: 'rgba(13,17,202,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(13,17,202,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_EntreRosArrozCiclo202021_3');
+        map.getPane('pane_EntreRosArrozCiclo202021_3').style.zIndex = 403;
+        map.getPane('pane_EntreRosArrozCiclo202021_3').style['mix-blend-mode'] = 'normal';
+        var layer_EntreRosArrozCiclo202021_3 = new L.geoJson(json_EntreRosArrozCiclo202021_3, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_EntreRosArrozCiclo202021_3',
+            layerName: 'layer_EntreRosArrozCiclo202021_3',
+            pane: 'pane_EntreRosArrozCiclo202021_3',
+            onEachFeature: pop_EntreRosArrozCiclo202021_3,
+            style: style_EntreRosArrozCiclo202021_3_0,
+        });
+        bounds_group.addLayer(layer_EntreRosArrozCiclo202021_3);
+        map.addLayer(layer_EntreRosArrozCiclo202021_3);
+        function pop_EntreRosArrozCiclo202122_4(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DPTO'] !== null ? autolinker.link(feature.properties['DPTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['DTO'] !== null ? autolinker.link(feature.properties['DTO'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_EntreRosArrozCiclo202122_4_0() {
+            return {
+                pane: 'pane_EntreRosArrozCiclo202122_4',
+                opacity: 1,
+                color: 'rgba(243,10,22,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(243,10,22,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_EntreRosArrozCiclo202122_4');
+        map.getPane('pane_EntreRosArrozCiclo202122_4').style.zIndex = 404;
+        map.getPane('pane_EntreRosArrozCiclo202122_4').style['mix-blend-mode'] = 'normal';
+        var layer_EntreRosArrozCiclo202122_4 = new L.geoJson(json_EntreRosArrozCiclo202122_4, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_EntreRosArrozCiclo202122_4',
+            layerName: 'layer_EntreRosArrozCiclo202122_4',
+            pane: 'pane_EntreRosArrozCiclo202122_4',
+            onEachFeature: pop_EntreRosArrozCiclo202122_4,
+            style: style_EntreRosArrozCiclo202122_4_0,
+        });
+        bounds_group.addLayer(layer_EntreRosArrozCiclo202122_4);
+        map.addLayer(layer_EntreRosArrozCiclo202122_4);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/EntreRosArrozCiclo202122_4.png" /> Entre Ríos - Arroz - Ciclo 2021/22': layer_EntreRosArrozCiclo202122_4,'<img src="legend/EntreRosArrozCiclo202021_3.png" /> Entre Ríos - Arroz - Ciclo 2020/21': layer_EntreRosArrozCiclo202021_3,'<img src="legend/EntreRosArrozCiclo201920_2.png" /> Entre Ríos - Arroz - Ciclo 2019/20': layer_EntreRosArrozCiclo201920_2,'<img src="legend/Lmitesdepartamentales_1.png" /> Límites departamentales': layer_Lmitesdepartamentales_1,"Google Earth": layer_GoogleEarth_0,},{collapsed:false}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
