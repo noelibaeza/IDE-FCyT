@@ -59,13 +59,13 @@
         function pop_ProvinciasproductorasLmitesdepartamentales_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['PROVINCIA'] !== null ? autolinker.link(feature.properties['PROVINCIA'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>PROVINCIA</strong><br />' + (feature.properties['PROVINCIA'] !== null ? autolinker.link(feature.properties['PROVINCIA'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['DEPARTAMTO'] !== null ? autolinker.link(feature.properties['DEPARTAMTO'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>DEPARTAMTO</strong><br />' + (feature.properties['DEPARTAMTO'] !== null ? autolinker.link(feature.properties['DEPARTAMTO'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>SUP</strong><br />' + (feature.properties['SUP'] !== null ? autolinker.link(feature.properties['SUP'].toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             layer.bindPopup(popupContent, {maxHeight: 400});
@@ -159,7 +159,7 @@
         function pop_Lmitesprovinciales_3(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['PROVINCIA'] !== null ? autolinker.link(feature.properties['PROVINCIA'].toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>PROVINCIA</strong><br />' + (feature.properties['PROVINCIA'] !== null ? autolinker.link(feature.properties['PROVINCIA'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <td colspan="2">' + (feature.properties['COUNT'] !== null ? autolinker.link(feature.properties['COUNT'].toLocaleString()) : '') + '</td>\
@@ -197,6 +197,8 @@
         });
         bounds_group.addLayer(layer_Lmitesprovinciales_3);
         map.addLayer(layer_Lmitesprovinciales_3);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/Lmitesprovinciales_3.png" /> Límites provinciales': layer_Lmitesprovinciales_3,'<img src="legend/ArrozArgentinaCiclo2021_22_2.png" /> Arroz - Argentina - Ciclo 2021_22': layer_ArrozArgentinaCiclo2021_22_2,'<img src="legend/ProvinciasproductorasLmitesdepartamentales_1.png" /> Provincias productoras - Límites departamentales': layer_ProvinciasproductorasLmitesdepartamentales_1,"Google Earth": layer_GoogleEarth_0,},{collapsed:false}).addTo(map);
         setBounds();
         </script>
     </body>
