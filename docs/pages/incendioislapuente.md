@@ -32,21 +32,16 @@ Información sobre los incendios de la Isla Puente – Noviembre 2021
 
 ![image](https://user-images.githubusercontent.com/85247275/168096514-a6f98492-9414-4d4c-97d0-adb3c8c87cae.png)
 
-![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente.png=x100)
+![image](=x100)
 
 Puntos de calor historicos área de estudio.
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png" width="200" height="200" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente.png" width="300" height="300" />
 
-<img src="[drawing.jpg](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png" width="300" height="300" />
 
-<img src="(https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_3.png" width="300" height="300" />
 
-<img src="[drawing.https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)" alt="drawing" style="width:200px;"/>
-Puntos de calor 2022 area de estudio.
 
-![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_3.png=10x20)
-
-Puntos de calor 2022 con area buffer de 125 metros cuadrados. 
 
 
