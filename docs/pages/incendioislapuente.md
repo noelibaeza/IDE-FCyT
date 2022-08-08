@@ -40,7 +40,7 @@ Puntos de calor historicos área de estudio.
 <img src="[drawing.https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)" alt="drawing" style="width:200px;"/>
 Puntos de calor 2022 area de estudio.
 
-![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_3.png =100x20)
+![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_3.png =10x20)
 
 Puntos de calor 2022 con area buffer de 125 metros cuadrados. 
 
