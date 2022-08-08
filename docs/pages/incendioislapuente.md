@@ -32,7 +32,7 @@ Información sobre los incendios de la Isla Puente – Noviembre 2021
 
 ![image](https://user-images.githubusercontent.com/85247275/168096514-a6f98492-9414-4d4c-97d0-adb3c8c87cae.png)
 
-![image](=x100)
+
 
 Puntos de calor historicos área de estudio.
 
