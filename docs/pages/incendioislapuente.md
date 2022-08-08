@@ -36,8 +36,8 @@ Información sobre los incendios de la Isla Puente – Noviembre 2021
 
 Puntos de calor historicos área de estudio.
 
-![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)
 
+<img src="[drawing.png](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_2.png)" alt="drawing" style="width:200px;"/>
 Puntos de calor 2022 area de estudio.
 
 ![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/main/images/AreaQuemadaIslaPuente_3.png)
