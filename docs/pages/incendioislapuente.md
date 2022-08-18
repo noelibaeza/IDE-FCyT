@@ -45,9 +45,6 @@ Puntos de calor historicos área de estudio.
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.jpg" width="700" height="500" />
 
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.png" width="700" height="500" />
-
-![image](https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.png =500x500)
 
 
 
