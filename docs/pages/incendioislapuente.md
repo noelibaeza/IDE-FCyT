@@ -38,11 +38,14 @@ Puntos de calor historicos área de estudio.
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.png" width="700" height="500" />
 
+Puntos de calor año 2022.
+
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_2.png" width="700" height="500" />
+
+Puntos de calor año 2022, con buffer de 125 m2.
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente_3.png" width="700" height="500" />
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/AreaQuemadaIslaPuente.jpg" width="700" height="500" />
 
 
 
