@@ -105,5 +105,5 @@ nav:
     - Hansen Bosque: pages/handsen.md
   - Proyectos:
     - Incendio Isla Puente: pages/incendioislapuente.md
-    - Vulnerabilidad Delta del Paraná: docs/pages/VulnerabilidadDeltadelParaná.md
+    - Vulnerabilidad Delta del Paraná: pages/VulnerabilidadDeltadelParaná.md
   - Contacto: pages/contacto.md
