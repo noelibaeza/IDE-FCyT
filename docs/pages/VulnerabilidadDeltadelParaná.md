@@ -1,5 +1,5 @@
 # APORTES A LA CARACTERIZACIÓN DE LA VULNERABILIDAD AMBIENTAL EN EL DELTA DEL RÍO PARANÁ, ARGENTINA, MEDIANTE GEOINFORMÁTICA Y TÉCNICAS DE EVALUACIÓN MULTI-CRITERIO
-***Facundo Boladeras, Virginia Piani, Lisandra P. Zamboni, Walter Sione, Fernando Tentor y Pablo Aceñolaza. 
+***Facundo Boladeras, Virginia Piani, Lisandra P. Zamboni, Walter Sione, Fernando Tentor y Pablo Aceñolaza.*** 
 
 ## Resumen
 
@@ -8,4 +8,3 @@ En Argentina, la región del Delta e Islas del Río Paraná es utilizada por ind
 
 ![image](https://github.com/IDE-FCyT/IDE-FCyT/blob/84f9473c7ae1bae293a475c15bd1443093823c58/images/Mapa_Beca_3.png)
 
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/blob/84f9473c7ae1bae293a475c15bd1443093823c58/images/Mapa_Beca_3.png" width="700" height="500" />
