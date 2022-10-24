@@ -8,4 +8,4 @@ En Argentina, la región del Delta e Islas del Río Paraná es utilizada por ind
 
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca_3.png" width="700" height="500" />
-<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca2.png" width="700" height="500" />
+<img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca2.png" width="700" height="600" />
