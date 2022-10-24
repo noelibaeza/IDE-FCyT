@@ -14,11 +14,16 @@ La metodología de EMC utilizada integró en su análisis de vulnerabilidad ambi
 
 Se midio la vulnerabilidad en una escala que va de 1 a 3, y se comporta visualmente como un semáforo, donde el valor 1 es representado por el color verde, el valor 2 por el color amarillo y el valor 3 por el color rojo. Al tratarse de datos continuos toda la gama de valores intermedios expresan colores de transición entre estos tres, por lo que se designaron las siguientes categorias con sus respectivos rangos numéricos. 
 
-Categorías de vulnerabilidad
+Categorías de vulnerabilidad:
+
 -	Muy baja: Comprende a los valores inferiores a 1.75.
+
 -	Baja: Comprende a los valores entre 1.75 y 2.0.
+
 -	Media: Comprende a los valores entre 2.0 y 2.25.
+
 -	Media-alta: Comprende a los valores entre 2.25 y 2.5
+
 -	Alta: Comprende a los valores superiores a 2.5.
 
 
