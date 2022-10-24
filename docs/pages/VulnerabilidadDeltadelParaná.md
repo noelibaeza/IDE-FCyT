@@ -7,9 +7,10 @@ En Argentina, la región del Delta e Islas del Río Paraná es utilizada por ind
 
 
 
+
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca_3.png" width="850" height="600" />
-*Mapa Vulnerabilidad del Delta.*
+*Imagen 1. Mapa Vulnerabilidad del Delta.*
 
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca2.png" width="750" height="600" />
-*Asociacion del mapa de Vulnerabilidad con los centros poblados del área de estudio.* 
+*Imagen 2. Asociacion del mapa de Vulnerabilidad con los centros poblados del área de estudio.* 
