@@ -106,4 +106,5 @@ nav:
   - Proyectos:
     - Incendio Isla Puente: pages/incendioislapuente.md
     - Vulnerabilidad Delta del Paraná: pages/VulnerabilidadDeltadelParaná.md
+    - Algoritmo GEE plantaciones forestales: pages/algoritmo_GEE_forestal.md
   - Contacto: pages/contacto.md
