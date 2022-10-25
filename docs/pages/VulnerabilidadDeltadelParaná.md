@@ -35,7 +35,7 @@ Se obtuvo el siguiente mapa de vulnerabilidad del Delta del Paraná (Figura 1).
 
 ## **Conclusiones** 
 
-Se encontró que las zonas del territorio más sensibles a cambios de uso de suelo están mayormente asociadas a los grandes centros poblados que integran el área de estudio o se ubican a la periferia del mismo. (Imagen 2)
+Se encontró que las zonas del territorio más sensibles a cambios de uso de suelo están mayormente asociadas a los grandes centros poblados que integran el área de estudio o se ubican a la periferia del mismo. Tambien existe gran correlacion de la categoria alta con la zona de distribucion de *Blastocerus dichotomus* (Imagen 2)
 
 <img src="https://github.com/IDE-FCyT/IDE-FCyT/raw/main/images/Mapa_Beca2.png" width="750" height="600" />
 *Imagen 2. Asociacion del mapa de Vulnerabilidad con los centros poblados del área de estudio.* 
