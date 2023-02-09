@@ -42,7 +42,7 @@ theme:
   font:
     text: Google Sans
     code: Regular
-  favicon: assets/favicon.png
+  favicon: assets/images/IDE_LOGO.svg
   icon:
     logo: logo
 
