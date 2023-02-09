@@ -1,6 +1,6 @@
 # Bienvenidos a la FCyT IDE
 
-![logo_ide](docs/images/logo_ide.jpg)
+![logo_ide](https://github.com/IDE-FCyT/IDE-FCyT/blob/0477f97160c581d1fc9e4fb7e09c520c0e66a391/docs/images/logo_ide.jpg)
 ---
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=IDE-FCyT.IDE-FCyT)](https://github.com/IDE-FCyT)
