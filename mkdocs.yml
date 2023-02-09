@@ -15,7 +15,7 @@ copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
 
 theme:
   name: material
-  icon: images/IDE_LOGO.svg
+  logo: images/IDE_LOGO.svg
 
   # 404 page
   static_templates:
