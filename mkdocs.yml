@@ -12,7 +12,6 @@ edit_uri: ./edit/main/docs
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2022 Fernando Tentor'
 
-
 theme:
   name: material
   logo: images/IDE_LOGO.svg
